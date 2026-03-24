@@ -13,8 +13,8 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
+<img width="951" height="956" alt="image" src="https://github.com/user-attachments/assets/6f9a93b2-bac0-4d75-ab1f-4f5a6c9577f3" />
 
-<img width="869" height="713" alt="Screenshot 2026-02-06 184805" src="https://github.com/user-attachments/assets/6e808709-6ddc-4642-906f-b2f4c05dbc23" />
 
 ## DESIGN STEPS:
 
@@ -89,28 +89,29 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 
 ## Dataset Information
-
-<img width="1149" height="465" alt="image" src="https://github.com/user-attachments/assets/a666efea-0f91-4259-b67e-70dcd7fd2e0c" />
+<img width="1241" height="237" alt="image" src="https://github.com/user-attachments/assets/63f0b9b6-115b-449f-92d1-c0151a74145b" />
 
 
 ## OUTPUT
 
-
+<img width="684" height="573" alt="image" src="https://github.com/user-attachments/assets/2171c11d-683c-4259-a1a2-f69ee97d0732" />
 
 ### Confusion Matrix
 
-<img width="699" height="611" alt="image" src="https://github.com/user-attachments/assets/b92e2c6e-e858-4ad7-9323-4ae261214365" />
+
+<img width="548" height="247" alt="image" src="https://github.com/user-attachments/assets/fa46feae-5e26-40ed-ae3c-979a5cfc9a9f" />
+<img width="367" height="93" alt="image" src="https://github.com/user-attachments/assets/23c89fc3-d08e-488b-a397-631420f00628" />
 
 
 ### Classification Report
+<img width="548" height="247" alt="image" src="https://github.com/user-attachments/assets/fa46feae-5e26-40ed-ae3c-979a5cfc9a9f" />
 
-<img width="571" height="241" alt="image" src="https://github.com/user-attachments/assets/a6895600-e11b-4762-b606-e84b2e740420" />
 
 
 
 ### New Sample Data Prediction
+<img width="349" height="94" alt="image" src="https://github.com/user-attachments/assets/b0b5457a-72c4-4619-81b3-b81dc5e04ca1" />
 
-<img width="779" height="258" alt="image" src="https://github.com/user-attachments/assets/726a289f-2ecf-4c55-bb91-cf198b4da60c" />
 
 ## RESULT
 
